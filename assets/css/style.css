@@ -1,7 +1,7 @@
 body {
 	/*background-image: url("../images/background.png");*/
 	background-repeat: repeat;
-	font-family: Arial;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
 	color: #777;
 	line-height: 28px;
@@ -21,7 +21,7 @@ body {
 /* General Styling */
 
 h1, h2 {
-	font-family: "Georgia";
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	color: #4aaaa5;
 	padding-bottom: 30px;
 	font-weight: bold;
@@ -52,7 +52,7 @@ header {
 	display: block;
 	background-color: #4aaaa5;
 	color:#fff;
-	font-family: "Georgia";
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	font-size: 30px;
 	padding: 0 40px;
 	line-height: 90px;
@@ -75,7 +75,7 @@ nav ul li {
 
 nav ul li a {
 	text-decoration: none;
-	color: #999;
+	color: #777;
 	margin-left: 20px;
 	line-height: 22px;
 	padding-left: 20px;
@@ -111,7 +111,7 @@ footer {
 
 #content {
 	float: left;
-	width: 650px;
+	width: 960px;
 }
 
 .avatar {
@@ -191,7 +191,7 @@ input[type=submit] {
   text-align: center;
   background: #4aaaa5;
   border-bottom: 0;
-  font-family: "Georgia";
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
   font-size: 22px;
 }
 
